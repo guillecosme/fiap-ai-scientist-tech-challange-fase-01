@@ -66,6 +66,8 @@ data/external/*
 !data/interim/.gitkeep
 !data/processed/.gitkeep
 !data/external/.gitkeep
+# Excecao: o dataset processado canonico do projeto e versionado
+!data/processed/dados_processados.csv
 
 # Modelos serializados (manter pasta, ignorar binários)
 models/*
