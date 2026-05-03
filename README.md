@@ -51,6 +51,11 @@ Código reutilizável em `src/nps/` (carregamento de dados em `data.py`, engenha
 - **Priorização do atendimento pelo NPS predito.** Usar o ranking gerado pelo modelo para distribuir a fila do SAC, atacando primeiro os clientes com maior probabilidade de virar detrator.
 - **Painel executivo de NPS projetado.** Acompanhar em tempo real, no nível agregado, o NPS estimado da operação a partir dos dados de atraso, sem precisar esperar a pesquisa para ter leitura do humor da base.
 
+## Apresentação executiva
+
+- **Slides:** [`reports/slides/nps_preditivo_fase1.pptx`](reports/slides/nps_preditivo_fase1.pptx) — 13 slides em PowerPoint, formato 16:9, sintetizando contexto, achados e recomendações.
+- **Vídeo (Loom, ~7 min):** _link a ser adicionado após gravação_.
+
 ## Como reproduzir
 
 Pré-requisito: [uv](https://docs.astral.sh/uv/) instalado.
